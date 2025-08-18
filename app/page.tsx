@@ -104,12 +104,14 @@ export default function Home() {
             </ul>
           </div>
           <div>
-            <h3 className="text-xl font-semibold text-white mb-3">Usage</h3>
+            <h3 className="text-xl font-semibold text-white mb-2">Usage</h3>
             <p>
               Peek works inside any application. Simply open it with your
               hotkey, take a screenshot, and/or enter a prompt, and the
               assistant will respond without interrupting your workflow.
             </p>
+            <br />
+            <p>Currently free at the use of your own OpenAI API key, Peek will be exiting beta, introducing project history tracking and modular support for various LLMs as a subscription-based service.</p>
           </div>
         </div>
       </section>
