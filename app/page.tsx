@@ -67,7 +67,7 @@ export default function Home() {
       <section className="w-full flex flex-col items-center py-24 bg-gradient-to-b from-black to-gray-900">
         <h2 className="text-3xl font-semibold mb-8">Download Peek</h2>
         <a
-          href="/peek.exe" // place your build in /public/peek.exe
+          href="/Peek.exe" // place your build in /public/peek.exe
           download
           className="px-8 py-4 bg-white text-black font-medium rounded-full shadow-lg hover:bg-gray-200 transition transform hover:scale-105"
         >
